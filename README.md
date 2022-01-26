@@ -1,2 +1,1 @@
-# hello-world
-the first epository 
+# something about my 3d printing projects
